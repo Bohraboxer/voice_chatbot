@@ -1,6 +1,9 @@
 ust/
 __pycache__
-.env
+voice_chatbot/.env
 recordings/
 temp_audio/
 .pub
+.gitignore
+github_bohraboxer
+github_bohraboxer.pub
