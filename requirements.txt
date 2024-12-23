@@ -1,0 +1,6 @@
+streamlit
+audio-recorder-streamlit
+deepgram
+langchain
+openai
+langchain_community
