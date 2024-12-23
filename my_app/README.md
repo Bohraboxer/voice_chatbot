@@ -12,7 +12,7 @@ The Voice Query Chatbot is a Streamlit-based application that allows users to in
 
 ## File Structure
 ```
-voice_chatbot/
+my_app/
 ├── app.py                 # Main application file
 ├── services/
 │   ├── init.py        
