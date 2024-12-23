@@ -53,7 +53,7 @@ voice_chatbot/
 
 1. Run the application:
    ```bash
-   streamlit run my_app/app.py
+   streamlit run voice_chatbot/app.py
    ```
 
 2. Open the app in your web browser at `http://localhost:8501`.
