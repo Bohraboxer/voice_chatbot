@@ -1,0 +1,6 @@
+ust/
+__pycache__
+.env
+recordings/
+temp_audio/
+.pub
